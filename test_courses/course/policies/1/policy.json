@@ -1,0 +1,74 @@
+{
+    "course/1": {
+        "advanced_modules": [
+            "annotatable",
+            "conditional",
+            "done",
+            "edx_sga",
+            "google-calendar",
+            "google-document",
+            "lti",
+            "lti_consumer",
+            "library_content",
+            "library_sourced",
+            "poll",
+            "rate",
+            "scorm",
+            "split_test",
+            "staffgradedxblock",
+            "survey"
+        ],
+        "cert_html_view_enabled": true,
+        "course_image": "images_course_image.jpg",
+        "discussion_topics": {
+            "General": {
+                "id": "course"
+            }
+        },
+        "display_name": "Advanced Component Testing Course",
+        "instructor_info": {
+            "instructors": []
+        },
+        "language": "en",
+        "learning_info": [],
+        "start": "2022-04-09T00:00:00Z",
+        "tabs": [
+            {
+                "course_staff_only": false,
+                "name": "Home",
+                "type": "course_info"
+            },
+            {
+                "course_staff_only": false,
+                "name": "Course",
+                "type": "courseware"
+            },
+            {
+                "course_staff_only": false,
+                "name": "Progress",
+                "type": "progress"
+            },
+            {
+                "course_staff_only": false,
+                "name": "Dates",
+                "type": "dates"
+            },
+            {
+                "course_staff_only": false,
+                "name": "Discussion",
+                "type": "discussion"
+            },
+            {
+                "course_staff_only": false,
+                "is_hidden": true,
+                "name": "Wiki",
+                "type": "wiki"
+            },
+            {
+                "course_staff_only": false,
+                "name": "Textbooks",
+                "type": "textbooks"
+            }
+        ]
+    }
+}

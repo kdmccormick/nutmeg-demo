@@ -1,0 +1,5 @@
+<course advanced_modules="[&quot;annotatable&quot;, &quot;conditional&quot;, &quot;done&quot;, &quot;edx_sga&quot;, &quot;google-calendar&quot;, &quot;google-document&quot;, &quot;lti&quot;, &quot;lti_consumer&quot;, &quot;library_content&quot;, &quot;library_sourced&quot;, &quot;poll&quot;, &quot;rate&quot;, &quot;scorm&quot;, &quot;split_test&quot;, &quot;staffgradedxblock&quot;, &quot;survey&quot;]" cert_html_view_enabled="true" course_image="images_course_image.jpg" display_name="Advanced Component Testing Course" instructor_info="{&quot;instructors&quot;: []}" language="en" learning_info="[]" start="2022-04-09T00:00:00+00:00">
+  <chapter url_name="46e3a4903a8a4921a35bcde7fcde9b0f"/>
+  <chapter url_name="95fb18c69516483e9dabef359c5bd381"/>
+  <wiki slug="TestX.Advanced.1"/>
+</course>
